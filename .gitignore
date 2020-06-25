@@ -1,0 +1,5 @@
+/.gradle/
+/build/intermediates/lint-cache/
+/gradle/wrapper/
+/QuranPearls.iml
+/.idea/
