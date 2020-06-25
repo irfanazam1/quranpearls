@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">QuranPearls</string>
+    <string name="title_activity_hadith_view">HadithView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="messages_header">Translation Settings</string>
+    <string name="text_size_header">Text Size Settings</string>
+    <string name="text_size_standard">Standard</string>
+    <string name="text_size_large">Large</string>
+    <string name="select_translation_language_title">Language</string>
+    <string name="language_key">language_key</string>
+    <string name="text_size_key">text_size_key</string>
+    <string name="default_language">English</string>
+    <string name="language_english">English</string>
+    <string name="language_urdu">Urdu</string>
+    <string name="ahadith">Ahadith</string>
+    <string name="home">Home</string>
+    <string name="category1">الحيض</string>
+    <string name="category2">الصلاة</string>
+    <string name="category3">الكفالة</string>
+    <string name="category4">الأدب</string>
+    <string name="app_footer">جواهر القران الكريم</string>
+    <string name="app_header_bismillah">بسم الله الرحمن الرحيم</string>
+    <string name="app_header_aauzbillah">أعوذ بالله من الشيطان الرجيم</string>
+    <string name="card1">يا أيها الذين آمنوا</string>
+    <string name="card2">ذلك لآيات</string>
+    <string name="card3">من يحب الله</string>
+    <string name="card4">من لا يحب الله</string>
+    <string name="card5">من يهدي الله</string>
+    <string name="card6">من لا يهدي الله</string>
+    <string name="tag1">O you who have believed</string>
+    <string name="tag2">signs for</string>
+    <string name="tag3">Allah loves</string>
+    <string name="tag4">Allah does not like</string>
+    <string name="tag5">Allah guides</string>
+    <string name="tag6">Allah does not guide</string>
+    <string name="query">query</string>
+    <string name="email">mazam76@gmail.com</string>
+    <string name="github">irfanazam1</string>
+    <string name="playstore">com.pureapps.quranpearls</string>
+    <string name="description">The purpose of this application is to learn the Aya’s of Quran regarding the orders of Allah (SWT) for the believers and also to learn what characteristics a person should possess to attain the love and guidance from Allah (SWT) and what characteristics may keep a person deprived of Allah’s (SWT) love and guidance. In sha Allah these Aya’s of Quran will lead us towards self purification and the path towards Allah’s (SWT) true recognition, love, and guidance.</string>
+</resources>

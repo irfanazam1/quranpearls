@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+    <color name="outer_card">#D9a1722a</color>
+    <color name="inner_card">#A6fffdd0</color>
+    <color name="sura_card">#F2e1d29e</color>
+</resources>

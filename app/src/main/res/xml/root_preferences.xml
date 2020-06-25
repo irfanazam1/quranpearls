@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory app:title="@string/messages_header">
+        <ListPreference
+            app:defaultValue="English"
+            app:entries="@array/language_entries"
+            app:entryValues="@array/language_values"
+            app:key="@string/language_key"
+            app:title="@string/select_translation_language_title"
+            app:useSimpleSummaryProvider="true"
+            android:icon="@drawable/ic_translate">
+        </ListPreference>
+    </PreferenceCategory>
+    <PreferenceCategory app:title="@string/text_size_header">
+        <SwitchPreference
+            app:defaultValue="@string/text_size_standard"
+            app:title="@string/text_size_standard"
+            app:key="@string/text_size_key"
+            android:icon="@drawable/ic_text_size">
+        </SwitchPreference>
+    </PreferenceCategory>
+</PreferenceScreen>
